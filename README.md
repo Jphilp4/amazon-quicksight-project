@@ -15,9 +15,6 @@ The grand finale was building a cohesive dashboard to unite all visualisations‚Ä
 
 ---
 
-### Acknowledgments  
-üôè Special thanks to **NextWork** for providing guidance on this project, turning data exploration into a fun challenge! Let‚Äôs connect on [NextWork](https://link.nextwork.org/li).
-
 ### Links
 
 #### **Connect with Me**  
@@ -29,5 +26,5 @@ The grand finale was building a cohesive dashboard to unite all visualisations‚Ä
 
 ---
 
-### Hashtags  
+###  
 #AWS #DataAnalytics #AmazonQuickSight #DashboardDesign #DataVisualisation
